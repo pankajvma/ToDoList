@@ -1,0 +1,1 @@
+A Basic JavaFX Application developed for scheduling Daily Activities with the help of Timestamps.
